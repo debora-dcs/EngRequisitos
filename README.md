@@ -9,3 +9,4 @@ AC4 (OPE) – Entrega dos artefatos de 15 a 22
 “20 - Modelo Conceitual de Negócio (Um para cada Nó Operacional)”
 “21 - Análise do Ciclo de Vida”
 “22 - Requisitos do Sistema (SSS)”
+
